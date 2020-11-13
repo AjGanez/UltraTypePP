@@ -1,7 +1,7 @@
 {
-	"multi_account": false,
-	"username": "username",
-	"password": "secretpassword123",
+	"multi_account": true,
+	"username": "awesomegodowerw",
+	"password": "awesome",
 	"wpm": 100,
 	"accuracy": 0.99
 }
